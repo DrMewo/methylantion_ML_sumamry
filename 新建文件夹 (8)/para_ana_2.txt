@@ -1,0 +1,9 @@
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/anaylise_2_1.R
+1:#Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/anaylise_2_2.R
+1:#Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/anaylise_2_3.R
+1:#Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/anaylise_2_4.R
+1:#Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/anaylise_2_5.R
+1:#Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/anaylise_2_6.R
+1:#Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/anaylise_2_7.R
+1:#Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/anaylise_2_8.R
+1:#Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/anaylise_2_9.R

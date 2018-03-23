@@ -1,0 +1,4 @@
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/pancreas.R
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/lung.R
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/esophagus.R
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/bladder.R

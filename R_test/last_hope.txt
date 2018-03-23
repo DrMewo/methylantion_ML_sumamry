@@ -1,0 +1,13 @@
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code2/liver.R
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code2/colorectal.R
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code2/kidney.R
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code2/uterus.R
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code2/thyrold.R
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code2/stomach.R
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code2/prostate.R
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code2/pancreas.R
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code2/lung.R
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code2/esophagus.R
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code2/cervix.R
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code2/bladder.R
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code2/adrenal_gland.R

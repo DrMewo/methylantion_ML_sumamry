@@ -1,0 +1,1 @@
+"case_id"	"primary_diagnosis"	"submitter_id"	"tumor_stage"	"age_at_diagnosis"	"gender"	"race"	"ethnicity"	"sample_type_id"	"percent_tumor_cells"	"percent_tumor_nuclei"	"percent_monocyte_infiltration"	"percent_normal_cells"	"percent_stromal_cells"	"file_name"	"project_id"

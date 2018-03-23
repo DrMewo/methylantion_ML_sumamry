@@ -1,0 +1,2 @@
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/s_1.R
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/s_2.R

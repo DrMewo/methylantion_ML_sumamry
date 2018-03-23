@@ -1,0 +1,3 @@
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/liver.R
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/colorectal.R
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/kidney.R

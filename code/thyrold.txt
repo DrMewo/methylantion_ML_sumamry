@@ -1,0 +1,4 @@
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/thyrold.R
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/prostate.R
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/uterus.R
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/stomach.R

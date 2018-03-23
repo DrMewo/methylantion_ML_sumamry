@@ -1,0 +1,9 @@
+1:Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/imp_map.R
+1:#Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/ana_7_2.R
+1:#Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/ana_7_3.R
+1:#Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/ana_7_4.R
+1:#Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/ana_7_5.R
+1:#Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/ana_7_6.R
+1:#Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/ana_7_7.R
+1:#Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/ana_7_8.R
+1:#Rscript /mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/code/ana_7_9.R

@@ -1,0 +1,28 @@
+length(a[1,])
+a[1:10,1:10]
+a[is.na(a)] <- 0
+a_matrix<-matrix(,nrow=nrow(a),ncol=ncol(a)-1)
+for(i in c(1:nrow(a))){
+for(j in c(1:ncol(a)-1)){
+a_matrix[i,j]<-a[i,j+1]
+}
+}
+b<-colnames(a)
+head(b)
+z<-read.delim("/mnt/ilustre/users/sanger-dev/sg-users/zhangpeng/fighting/list_2.txt")
+z[,15] <-sapply(z[,15],function(x) gsub("-",".",x,perl = TRUE))
+b<-b[-1]
+head(b)
+head(z[,15])
+c<-c(1:length(b))
+d<-data.frame(b,c)
+head(d)
+colnames(d)<-c("a","b")
+head(k)
+head(z)
+colnames(d)<-c("file_name","num")
+e<-merge(d,k,x.ref="file_name",y.ref="file_name")
+e<-merge(d,z,x.ref="file_name",y.ref="file_name")
+head(e)
+f<-t(a[,-1])
+head(f)
